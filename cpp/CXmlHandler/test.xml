@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<class>
+    <teacher>
+        <name>
+            <![CDATA[xiaoming]]>
+        </name>
+        <number>
+            <![CDATA[123]]>
+        </number>
+    </teacher>
+    <student>
+        <name>
+            <![CDATA[daming]]>
+        </name>
+        <number>456</number>
+    </student>
+</class>
+
