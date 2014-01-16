@@ -1,4 +1,4 @@
 libraries
 =========
 
-simple libraries
+Some libraries used in my work
