@@ -1,5 +1,5 @@
 /**
- * CIniHandler.cpp Define the class to handle INI files
+ * CIniHandler.cpp Realization of the class to handle INI files
  *
  * @author: SHUYUFANG
  */

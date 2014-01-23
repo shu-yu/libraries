@@ -1,5 +1,5 @@
 /**
- * CXmlCreator.h Define the class to create XML files
+ * CXmlCreator.h Definition of the class to create XML files
  *
  * @author: SHUYUFANG
  */

@@ -1,5 +1,5 @@
 /**
- * CXmlCreator.cpp Define the class to create XML files
+ * CXmlCreator.cpp Realization of the class to create XML files
  *
  * @author: SHUYUFANG
  */

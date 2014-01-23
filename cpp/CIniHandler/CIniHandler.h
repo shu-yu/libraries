@@ -1,5 +1,5 @@
 /**
- * CIniHandler.h Define the class to handle INI files
+ * CIniHandler.h Definition of the class to handle INI files
  *
  * @author: SHUYUFANG
  */

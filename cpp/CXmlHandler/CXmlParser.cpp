@@ -1,5 +1,5 @@
 /**
- * CXmlParser.cpp Define the class to parse XML files
+ * CXmlParser.cpp Realization of the class to parse XML files
  *
  * @author: SHUYUFANG
  */

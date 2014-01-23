@@ -1,5 +1,5 @@
 /**
- * CXmlParser.h Define the class to parse XML files
+ * CXmlParser.h Definition of the class to parse XML files
  *
  * @author: SHUYUFANG
  */
